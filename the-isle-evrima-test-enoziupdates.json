@@ -3,12 +3,13 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "376210",
         "UpdateSourceArgs": "412680",
         "UpdateSourceVersion": "-beta evrima",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
-        "UpdateSourceConditionValue": "true",
+        "UpdateSourceConditionValue": "",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
