@@ -5,7 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "412680",
         "UpdateSourceArgs": "412680",
-        "UpdateSourceVersion": "-beta Evrima",
+        "UpdateSourceVersion": "Evrima",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
